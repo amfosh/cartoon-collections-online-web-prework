@@ -6,7 +6,6 @@ end
 def summon_captain_planet(array)
   names.map! { |name| name.capitalize }
   names.each { |name| puts name + ' is a programmer' }
-end
 
 def long_planeteer_calls# code an argument here
   # Your code here
