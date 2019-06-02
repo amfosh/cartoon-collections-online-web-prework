@@ -16,5 +16,6 @@ def find_the_cheese(foods)
   if foods.include?(cheese_types)
     return find.do |food|
       food.cheese_types?
-end
+    end
+  end
 end
