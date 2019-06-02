@@ -7,7 +7,8 @@ def summon_captain_planet(calls)
   calls.map { |name| name.capitalize + '!' }
 end
 
-def long_planeteer_calls(calls)
+def long_planeteer_calls(words)
+  words.
 end
 
 def find_the_cheese# code an argument here
